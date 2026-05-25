@@ -156,7 +156,11 @@ Generated:
 ---
 
 ## 📷 Simulation Results
- 
+
+<h3> 1 Pager Report </h3>
+<p align="center">
+1 Pager Report <br />
+<img src="https://img.sanishtech.com/u/12079b75694cb9e3548a698f654a0f37.png" height="80%" width="80%" alt="Geometry Model"/>
 <h3>1. Geometry Model</h3>
 <p align="center">
 1a. 3D Geometry Design in Spaceclaim <br />
